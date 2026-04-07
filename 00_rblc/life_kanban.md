@@ -7,15 +7,7 @@ kanban-plugin: board
 ## BACKLOG
 
 - [ ] DMH falaki zsoltnak
-- [ ] kedd:
-	- [ ] 10:00-12:00 tamsa meeting
-	- [ ] 12:00-től pocakért menni baricz tomival
-	- [ ] 17:10-re átvinni pocakot MR-re @{2026. 03. 17.}
 - [ ] MR heating @{2026. 03. 12.}
-- [ ] strelka
-- [ ] szerda:
-	- [ ] 7:00-ra vinni a kocsit a tatai útra szervízbe
-- [ ] szerdán 10-kor Tomival mászás!!!!
 - [ ] Whombat @{2026. 03. 16.}
 - [ ] HDDOT rendszereket nézni
 	- [ ] nézni pár rendszert
@@ -30,19 +22,12 @@ kanban-plugin: board
 - [ ] copilot cli
 - [ ] aktív magyarország
 - [ ] George-ékkal valamit kezdeni
-- [ ] Szertár emailt rendberakni
-- [ ] MTMT code
-- [ ] tanacetum balsamica magot szerezni
+- [ ] Szertár emailt rendberakni @{2026. 04. 14.}
+- [ ] MTMT code @{2026. 04. 14.}
 - [ ] <span style="color:cyan">OneDrive 10'</span>
 - [ ] <span style="color:cyan">Dir Structure 10' </span>[[structure|Notes]]
 - [ ] <span style="color:cyan"> Árambővítés projekt</span> [[Árambővítés projekt | (Notes)]]
 - [ ] <span style="color:cyan">Strelka agile</span> [[strelkanban|Kanban]]
-- [ ] <span style="color:cyan">Ruhák</span>
-	- [x] <span style="color:cyan">Mosás</span>
-	- [x] <span style="color:cyan">Teregetés</span>
-	- [x] <span style="color:cyan">Ruhák elpakolása</span>
-- [ ] Viraj adatait megnézni @{2026. 03. 18.}
-- [ ] Írni Rogeréknek @{2026. 03. 18.}
 
 
 ## TODO
@@ -53,8 +38,27 @@ kanban-plugin: board
 		- [ ] <span style="color:cyan">ELTE</span>
 		- [ ] <span style="color:cyan">Gmail</span>
 	- [ ] <span style="color:cyan">Naptárak</span>
-- [ ] Tamsának bioacoustics dolgok absztraktba @{2026. 03. 18.}
-- [ ] Hanna kérdésére válaszolni
+- [ ] Könyvelés
+	- [ ] Bankszámlakivonatok
+		- [ ] Letöltés
+		- [ ] Nyomtatás
+	- [ ] Számlák
+		- [ ] Merlin kiállítás
+		- [ ] Letöltés
+		- [ ] Nyomtatás
+	- [ ] ELTE fizu
+		- [ ] letöltés (elvileg megvan)
+		- [ ] nyomtatás (elvileg megvan)
+	- [ ] Papírok leadása
+- [ ] Írni Rogeréknek @{2026. 04. 09.}
+- [ ] Honlap kétsorok @{2026. 04. 09.}
+- [ ] Viraj @{2026. 04. 08.}
+- [ ] Hanna @{2026. 04. 08.}
+- [ ] Fogorvossal egyeztetni @{2026. 04. 07.}
+- [ ] Írni a Mindrun csapatnak @{2026. 04. 07.}
+- [ ] HR belt @{2026. 04. 07.}
+- [ ] Csigaültetés @{2026. 04. 07.}
+- [ ] Tomi telefonszámát kiszedni valahogy a telóból @{2026. 04. 07.}
 
 
 ## PROGRESS
@@ -63,28 +67,6 @@ kanban-plugin: board
 
 ## DONE
 
-- [ ] taj kátya!!!
-- [ ] Könyvelés
-- [ ] obsidian sync, finally :)
-- [ ] Vera HAR emailje
-	- [ ] értelmezni
-	- [ ] reagálni
-- [ ] szilvási gabit hívni
-	- [x] foglalt volt, újrahívni
-- [ ] falaki zsoltot hívni három után
-- [ ] növények
-- [ ] Okosóra @{2026. 03. 09.}
-- [ ] szerződés aláírás
-- [ ] virajra írni
-- [ ] verára írni a pénz miatt
-- [ ] szervízt hívni, hogy nem kell gumi
-- [ ] csekkolni a brain awareness week dolgait
-- [ ] kutyaszitternek írni, hogy sztornó
-- [ ] hannának és veráank írni, hogy mikor meetingeljünk. kedd kora délután?
-- [ ] Szilvási Gabinak írni
-	- keresni időpontokat április vége / május eleje, meg valamikor őszre
-	- na, ezeket elküldeni neki (két napok kellenek, mert data sztory telling)
-	- ehhez meg kell nézni, mikor van znanstival
 
 
 ***
