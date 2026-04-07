@@ -1,0 +1,16 @@
+{
+  "move-tags": true,
+  "tag-colors": [
+    {
+      "tagKey": "#strelka",
+      "color": "rgba(230, 235, 30, 1)",
+      "backgroundColor": "rgba(0, 0, 0, 0)"
+    },
+    {
+      "tagKey": "",
+      "color": "",
+      "backgroundColor": ""
+    }
+  ],
+  "link-date-to-daily-note": false
+}

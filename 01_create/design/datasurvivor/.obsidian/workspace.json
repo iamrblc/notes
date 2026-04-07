@@ -1,0 +1,336 @@
+{
+  "main": {
+    "id": "fae22a220baf7219",
+    "type": "split",
+    "children": [
+      {
+        "id": "c9ecac3c4d02f78a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "fe6a3755616f7c57",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modelling/statistical rethinking/1. The Golem of Prague.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1. The Golem of Prague"
+            }
+          },
+          {
+            "id": "58e843007d76d8cd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_survivor_book/0_index.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0_index"
+            }
+          },
+          {
+            "id": "de079f3cfc60b33c",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "barking dog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "barking dog"
+            }
+          },
+          {
+            "id": "cd535712fb1e6219",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "modelling/statistical rethinking/0_foreword.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0_foreword"
+            }
+          },
+          {
+            "id": "00c58d13fccef7aa",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "data_survivor_book/barking dog.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "barking dog"
+            }
+          },
+          {
+            "id": "d0fd7db248b34931",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "zhs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zhs"
+            }
+          },
+          {
+            "id": "0e6d55b19255bb28",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "oop/package_load_optimization.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "package_load_optimization"
+            }
+          },
+          {
+            "id": "1591c3762c6d16ad",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "oop/namespace_stuff.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "namespace_stuff"
+            }
+          },
+          {
+            "id": "0090b88ce7c78ea2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "terminal/zhs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "zhs"
+            }
+          },
+          {
+            "id": "2f6892a78f4f0242",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "git/create_branch.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "create_branch"
+            }
+          }
+        ],
+        "currentTab": 9
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "abdf53c76c0cd555",
+    "type": "split",
+    "children": [
+      {
+        "id": "4fa29b7daf3664a0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2ef9257d6af1d66a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "e65fca34b9fee7a7",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "f31f2b08d0099a5d",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "16ba796be1a085f9",
+    "type": "split",
+    "children": [
+      {
+        "id": "7d0f70b7712ebc4f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4c3b4d83d034e64b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "git/create_branch.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for create_branch"
+            }
+          },
+          {
+            "id": "58e881c30a0f3ffa",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links"
+            }
+          },
+          {
+            "id": "d55c283f6b47cfa9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "d7d275d0a37110d1",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "bases:Create new base": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "2f6892a78f4f0242",
+  "lastOpenFiles": [
+    "git/delete_branch.md",
+    "git/merge_branches.md",
+    "git/create_branch.md",
+    "git/branches_intro.md",
+    "git/0_git_moc.md",
+    "terminal/shell.md",
+    "terminal/zhs.md",
+    "terminal",
+    "oop/function_stuff.md",
+    "oop/namespace_stuff.md",
+    "oop/package_load_optimization.md",
+    "oop",
+    "data_survivor_book/barking dog.md",
+    "data_survivor_book/Foreword to taming uncertainty.md",
+    "uv/start_project.md",
+    "uv/0_uv_moc.md",
+    "modelling/statistical rethinking/1_the_golem_of_prague.md",
+    "modelling/statistical rethinking/0_foreword.md",
+    "modelling/statistical rethinking/0. Statistical Rethinking MOC.md",
+    "modelling/statistical rethinking/2. The Garden of Forking Data.md",
+    "modelling/statistical rethinking/1. The Golem of Prague.md",
+    "data_survivor_book/2_taming uncertainty/bayes_vs_fisher.md",
+    "data_survivor_book/2_taming uncertainty/causality.md",
+    "data_survivor_book/2_taming uncertainty/intro_taming_uncertainty.md",
+    "data_survivor_book/0_index.md",
+    "modelling/inferencial statistics",
+    "data_survivor_book/glossary.md",
+    "modelling/statistical rethinking",
+    "daily_notes/2025-05-26.md",
+    "data_survivor_book/statistical_paradoxes.md",
+    "data_survivor_book/2_taming uncertainty",
+    "data_survivor_book",
+    "modelling",
+    "uv",
+    "templates",
+    "daily_notes"
+  ]
+}

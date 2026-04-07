@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"327856aac84ea3f5","type":"text","text":"Dataviz alapelvek\n","x":-440,"y":-240,"width":250,"height":60},
+		{"id":"210b6bed5f6821ba","x":-720,"y":-620,"width":250,"height":160,"type":"text","text":"Ha adatot szeretnétek vizualizálni, az két okból lesz:\n- ti lássatok tisztábban\n- más lásson tisztábban"},
+		{"id":"3ee8ba83482c3f71","x":-780,"y":-257,"width":250,"height":60,"type":"text","text":"Kartésziusz vs Poláris koordinátarendszer"},
+		{"id":"b7678d465a85238b","x":-300,"y":-600,"width":250,"height":193,"type":"text","text":"Bemutatkozás\n- ELTE brain image, machine learning\n- Tudomány és adatkommunikáció\n- Data Viz Society\n- AdatKollektíva, úgyhogy hozok valamit, amin épp ténylegesen dolgozom, hogy oldjátok meg :D"}
+	],
+	"edges":[]
+}

@@ -1,0 +1,25 @@
+{
+	"nodes":[
+		{"id":"a477cb0836800af6","type":"group","x":-600,"y":-340,"width":920,"height":480,"color":"5","label":"Igazgatótanács (IT)"},
+		{"id":"adaaede649bfd7bb","type":"group","x":-580,"y":-160,"width":280,"height":280,"color":"4","label":"Elnök"},
+		{"id":"207da771aacc8c1c","type":"group","x":-280,"y":-160,"width":280,"height":280,"color":"4","label":"Stratégiai igazgató"},
+		{"id":"29a92cf32f0ae4fd","type":"group","x":20,"y":-160,"width":280,"height":280,"color":"4","label":"Tartalmi igazgató"},
+		{"id":"07d77e93058e797a","type":"text","text":"- stratégiai döntések\n- tartalmi irányelvek\n- operatív döntések előkészítése\n","x":-590,"y":-320,"width":900,"height":100},
+		{"id":"b76d55ee09979380","type":"text","text":"Beni","x":40,"y":-140,"width":240,"height":60,"color":"4"},
+		{"id":"96bc70d2d04d3a6d","type":"text","text":"- tartalmi döntések előkészítése, végrehajtása","x":40,"y":-60,"width":240,"height":100},
+		{"id":"55b4bc9e6a0b253c","type":"text","text":"RbLc","x":-560,"y":-140,"width":240,"height":60,"color":"4"},
+		{"id":"fe85169a77ce238e","type":"text","text":"- alapító, brandtulajdonos\n- Szertár elsődleges képviselete\n- jóváhagyási jogkör\n- operatív végrehajtás","x":-560,"y":-70,"width":240,"height":170},
+		{"id":"f8360368a84aea43","type":"text","text":"Adri","x":-260,"y":-140,"width":240,"height":60,"color":"4"},
+		{"id":"ea928f33b08cafc3","type":"text","text":"- stratégiai döntések előkészítése, végrehajtása","x":-260,"y":-60,"width":240,"height":100},
+		{"id":"a9d0d3f2f70d105d","type":"text","text":"Sales","x":-300,"y":220,"width":125,"height":60},
+		{"id":"c3c6377408fbf16a","type":"text","text":"PR","x":-140,"y":220,"width":125,"height":60},
+		{"id":"aff086f0f817b117","type":"text","text":"Rovatok","x":20,"y":220,"width":125,"height":60},
+		{"id":"ec92c8763cf9c06b","type":"text","text":"Gyártás","x":185,"y":220,"width":125,"height":60}
+	],
+	"edges":[
+		{"id":"37cc161265a6ae50","fromNode":"a9d0d3f2f70d105d","fromSide":"top","toNode":"207da771aacc8c1c","toSide":"bottom"},
+		{"id":"fea77ded6c341683","fromNode":"c3c6377408fbf16a","fromSide":"top","toNode":"207da771aacc8c1c","toSide":"bottom"},
+		{"id":"2df23f99e0767647","fromNode":"aff086f0f817b117","fromSide":"top","toNode":"29a92cf32f0ae4fd","toSide":"bottom"},
+		{"id":"c7930b0a070095f7","fromNode":"ec92c8763cf9c06b","fromSide":"top","toNode":"29a92cf32f0ae4fd","toSide":"bottom"}
+	]
+}

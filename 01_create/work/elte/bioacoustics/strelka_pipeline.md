@@ -1,0 +1,2 @@
+- audio dir will be the load directory. it will be in the preferences where you have to set rec_type
+- 

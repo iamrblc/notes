@@ -1,0 +1,14 @@
+{
+	"nodes":[
+		{"id":"8a099029e12d6d3e","x":-460,"y":-320,"width":250,"height":60,"type":"text","text":"medve lisszabonban\norrszarvú budapesten"},
+		{"id":"910aefbc368c4fc1","x":-125,"y":-30,"width":250,"height":175,"type":"text","text":"Emotions are evolutionarily ancient brain systems that generate instinctual behavioral and physiological responses and subjective feelings. (Panksepp)\n\n- előhuzalozott\n- evolutionarily conserved\n- generate action\n- coordinate physiology and behavior\n- valenced\n- subjective feelings (is it?)\n"},
+		{"id":"089e4c62751468c8","x":-440,"y":-160,"width":250,"height":260,"type":"text","text":"Jaak Panksepp:\n- affektív neurobiológia\n- patkánycsiklandozó\n"},
+		{"id":"b506034c3a2f203c","x":-60,"y":-240,"width":250,"height":60,"type":"text","text":"Paanksepp: \n- egér elé macskaszőr, akkor is félelem, ha nem láttak előtte macskát\n- "},
+		{"id":"6ff092b713fa2349","x":-440,"y":120,"width":250,"height":220,"type":"text","text":"pozitív skálák:\nJÁTÉKOSSÁG,\nKERESÉS,\nGONDOSKODÁS \nnegatív skálák:\nFÉLELEM\nHARAG\nSZOMORÚSÁG"},
+		{"id":"1c90310451be7911","x":-146,"y":109,"width":250,"height":671,"type":"text","text":"An emotion is a short-lasting internal state that evaluates something as good or bad and biases behavior, physiology, and attention.\n\n- valence (good / bad)\n- arousal (level of activation)\n- transient (not part of personality)\n- internally generated (central neural state, not just reflex)\n- multi-system effect (behavior, physiology, cognition)\n- action bias (prepares or favors certain behavior)\n- functionally adaptive"},
+		{"id":"891b5cfbee4221e5","x":-500,"y":420,"width":250,"height":171,"type":"text","text":"emotion - transient (joy)\nmood - longer term (optimistic)\ntemperament - stable trait (bold)"},
+		{"id":"1710b627cc911007","x":-503,"y":683,"width":250,"height":471,"type":"text","text":"joseph ledoux\n- neural circuitry of fear\n\n> **Emotions are not feelings — they are brain processes that detect and respond to threats and opportunities.**\n\nMore precisely:\n\n> **Emotional states are constructed by the brain; feelings are conscious interpretations of those states.**"},
+		{"id":"f8c3e50cdcaf217b","x":-146,"y":828,"width":250,"height":292,"type":"text","text":"Ekman:\n- öröm\n- szomorúság\n- félelem\n- düh\n- undor\n- meglepődés\n- (lenézés)\n FACS kutyákra is! (Facial action coding system)"}
+	],
+	"edges":[]
+}

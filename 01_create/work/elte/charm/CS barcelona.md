@@ -1,0 +1,4 @@
+Bridging Science and Society: Communicating Citizen Science through Media  
+**Description (3 lines):** A hands-on session that trains participants to reach the public via the media. From the anatomy of a compelling press release, ways to pitch CS projects to journalists and community groups to "journalistic thinking" to make the messages clear, newsworthy and impactful. 
+
+I know I'm a little late in the game, but if there's still room, I'd be happy to contribute my experiences both from the journalism, social media management and the science communication side from the past 15 years. I believe contacting the public is quite essential for successful CS projects. 

@@ -1,0 +1,3 @@
+[submodule "webbook/themes/E25DX"]
+	path = webbook/themes/E25DX
+	url = https://github.com/dumindu/E25DX.git
