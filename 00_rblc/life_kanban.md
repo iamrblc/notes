@@ -6,9 +6,14 @@ kanban-plugin: board
 
 ## BACKLOG
 
-- [ ] DMH falaki zsoltnak
+- [ ] <span style="color:cyan">Admin</span>
+	
+	- [ ] <span style="color:cyan">Emailek</span>
+		- [ ] <span style="color:cyan">ELTE</span>
+		- [ ] <span style="color:cyan">Gmail</span>
+	- [ ] <span style="color:cyan">Naptárak</span>
 - [ ] MR heating @{2026. 03. 12.}
-- [ ] Whombat @{2026. 03. 16.}
+- [ ] Whombat @{2026. 04. 09.}
 - [ ] HDDOT rendszereket nézni
 	- [ ] nézni pár rendszert
 	- [ ] ajánlatot kérni
@@ -32,12 +37,12 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] <span style="color:cyan">Admin</span>
-	
-	- [ ] <span style="color:cyan">Emailek</span>
-		- [ ] <span style="color:cyan">ELTE</span>
-		- [ ] <span style="color:cyan">Gmail</span>
-	- [ ] <span style="color:cyan">Naptárak</span>
+- [ ] Csigaültetés @{2026. 04. 07.}
+- [ ] Tomi telefonszámát kiszedni valahogy a telóból @{2026. 04. 07.}
+- [ ] Viraj @{2026. 04. 08.}
+- [ ] Hanna @{2026. 04. 08.}
+- [ ] Írni Rogeréknek @{2026. 04. 09.}
+- [ ] Honlap kétsorok @{2026. 04. 09.}
 - [ ] Könyvelés
 	- [ ] Bankszámlakivonatok
 		- [ ] Letöltés
@@ -50,23 +55,19 @@ kanban-plugin: board
 		- [ ] letöltés (elvileg megvan)
 		- [ ] nyomtatás (elvileg megvan)
 	- [ ] Papírok leadása
-- [ ] Írni Rogeréknek @{2026. 04. 09.}
-- [ ] Honlap kétsorok @{2026. 04. 09.}
-- [ ] Viraj @{2026. 04. 08.}
-- [ ] Hanna @{2026. 04. 08.}
-- [ ] Fogorvossal egyeztetni @{2026. 04. 07.}
-- [ ] Írni a Mindrun csapatnak @{2026. 04. 07.}
-- [ ] HR belt @{2026. 04. 07.}
-- [ ] Csigaültetés @{2026. 04. 07.}
-- [ ] Tomi telefonszámát kiszedni valahogy a telóból @{2026. 04. 07.}
+- [ ] KÖBE biztosítások (gmail) @{2026. 04. 08.}
 
 
 ## PROGRESS
 
+- [ ] HR belt @{2026. 04. 07.}
 
 
 ## DONE
 
+- [ ] Fogorvossal egyeztetni @{2026. 04. 07.}
+- [ ] Írni a Mindrun csapatnak @{2026. 04. 07.}
+- [ ] Zsolttal beszélni @{2026. 04. 07.}
 
 
 ***
