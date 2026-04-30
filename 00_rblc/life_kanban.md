@@ -37,12 +37,27 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Csigaültetés @{2026. 04. 07.}
 - [ ] Tomi telefonszámát kiszedni valahogy a telóból @{2026. 04. 07.}
-- [ ] Viraj @{2026. 04. 08.}
-- [ ] Hanna @{2026. 04. 08.}
 - [ ] Írni Rogeréknek @{2026. 04. 09.}
 - [ ] Honlap kétsorok @{2026. 04. 09.}
+- [ ] KÖBE biztosítások (gmail) @{2026. 04. 08.}
+- [ ] Huniverzum email
+- [ ] András cikkét átnyálazni
+- [ ] Faszos cikk
+- [ ] Szabina műszaki leírás
+
+
+## PROGRESS
+
+- [ ] HR belt @{2026. 04. 07.}
+- [ ] Csigaültetés @{2026. 04. 07.}
+
+
+## DONE
+
+- [ ] Fogorvossal egyeztetni @{2026. 04. 07.}
+- [ ] Írni a Mindrun csapatnak @{2026. 04. 07.}
+- [ ] Hanna @{2026. 04. 08.}
 - [ ] Könyvelés
 	- [ ] Bankszámlakivonatok
 		- [ ] Letöltés
@@ -55,18 +70,7 @@ kanban-plugin: board
 		- [ ] letöltés (elvileg megvan)
 		- [ ] nyomtatás (elvileg megvan)
 	- [ ] Papírok leadása
-- [ ] KÖBE biztosítások (gmail) @{2026. 04. 08.}
-
-
-## PROGRESS
-
-- [ ] HR belt @{2026. 04. 07.}
-
-
-## DONE
-
-- [ ] Fogorvossal egyeztetni @{2026. 04. 07.}
-- [ ] Írni a Mindrun csapatnak @{2026. 04. 07.}
+- [ ] Viraj @{2026. 04. 08.}
 - [ ] Zsolttal beszélni @{2026. 04. 07.}
 
 

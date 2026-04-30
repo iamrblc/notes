@@ -5,8 +5,10 @@
 - GPU: AMD Radeon (integrated) / Nvidia Geforce RTX 5070
 - Baseboard: MSI Micro Star Pro A620M-E (MS-7E28)
 - Disk: Capacity 932 GB / Formatted 932 GB / System disk: yes / Page file: Yes / Type: SSD (NVMe)
+- Data disk: 4 TB HDD 
 - RAM: 64 GB / 5600 MT/s / Form factor: DIMM
 # Needs
+
 ## Windows
 
 - [x] Praat (Tamsa)
@@ -25,8 +27,17 @@
 - [ ] FSL (and related stuff - Melina)
 - [ ] Matlab (Melina)
 
+## Dual boot setup
 
-## Check
+- [ ] Assign 4 TB drive to Data
+- [ ] Shrink windows partition
+- [ ] install ubuntu with one user
+- [ ] add users
+	- [ ] Melina
+	- [ ] Farkas
+	- [ ] Emil
+
+## Check with others
 
 Dear All,
 
