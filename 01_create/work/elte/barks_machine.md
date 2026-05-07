@@ -85,3 +85,47 @@ Please let me know if you agree with this plan or if you have any questions, sug
 Thanks,
 
 L.
+
+## GRUB ISSUE
+
+I created an Ubuntu dual boot on a Windows computer the following way:
+
+1. Shrank the windows partition within windows.
+2. Using the live usb, I installed Ubuntu to the free space.
+
+Issue: The computer boots to windows directly without giving a grub option to select which OS to load.
+
+What I tried:
+1. Setting up boot priority in BIOS (MSI). However, there I found no option for this (only cd, usb, floppy, hard drive - and within hard drive there was no option to select windows / linux)
+2. I booted from the live usb, checked sudo fdisk -l. This cleared that ubuntu was installed properly: 
+   - **dev/nvme0n1p1** = 200 MB EFI System Partition
+- **/dev/nvme0n1p3** = Windows
+- **/dev/nvme0n1p5** = **449 GB Linux filesystem**
+1. I tried this:
+```bash
+sudo mount /dev/nvme0n1p5 /mnt
+sudo mount /dev/nvme0n1p1 /mnt/boot/efi
+sudo grub-install --boot-directory=/mnt/boot --efi-directory=/mnt/boot/efi /dev/nvme0n1
+```
+This output "installation finished, no error reported"
+
+Then 
+```bash
+sudo chroot /mnt update-grub
+```
+/usr/sbin/grub-probe: error: cannot find a device for / (is /dev mounted?)
+
+Then i did bindings:
+```bash
+sudo mount --bind /dev /mnt/dev
+sudo mount --bind /proc /mnt/proc
+sudo mount --bind /sys /mnt/sys
+sudo chroot /mnt update-grub
+```
+
+Still no grub after reboot.
+
+Question: Knowing this situation, what seems to be the issue?Would it be better to start the ubuntu installation afresh and try to fix the grub issue during that process somehow or try fixing the issue with coding workarounds like I tried before?
+
+
+

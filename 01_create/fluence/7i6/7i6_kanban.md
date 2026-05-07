@@ -6,18 +6,14 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] vágóképek
-- [ ] voxi trükkök felvétele
 
 
 ## PROGRESS
 
-- [ ] script írás
 
 
 ## DONE
 
-- [ ] cikk kijegyzetelése
 
 
 
