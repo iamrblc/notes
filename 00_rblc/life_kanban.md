@@ -12,8 +12,6 @@ kanban-plugin: board
 		- [ ] <span style="color:cyan">ELTE</span>
 		- [ ] <span style="color:cyan">Gmail</span>
 	- [ ] <span style="color:cyan">Naptárak</span>
-- [ ] MR heating @{2026. 03. 12.}
-- [ ] Whombat @{2026. 04. 09.}
 - [ ] HDDOT rendszereket nézni
 	- [ ] nézni pár rendszert
 	- [ ] ajánlatot kérni
@@ -24,40 +22,43 @@ kanban-plugin: board
 	- [ ] írni
 	#fnirs @{2026. 03. 17.}
 - [ ] 4 kutyás ML cikk feldolgozása
-- [ ] copilot cli
 - [ ] aktív magyarország
 - [ ] George-ékkal valamit kezdeni
-- [ ] Szertár emailt rendberakni @{2026. 04. 14.}
+- [ ] Szertár emailt rendberakni @{2026. 06. 05.}
 - [ ] MTMT code @{2026. 04. 14.}
 - [ ] <span style="color:cyan">OneDrive 10'</span>
 - [ ] <span style="color:cyan">Dir Structure 10' </span>[[structure|Notes]]
 - [ ] <span style="color:cyan"> Árambővítés projekt</span> [[Árambővítés projekt | (Notes)]]
 - [ ] <span style="color:cyan">Strelka agile</span> [[strelkanban|Kanban]]
+- [ ] Fogorvost hívni a töröttet megcsinálni
 
 
 ## TODO
 
 - [ ] Tomi telefonszámát kiszedni valahogy a telóból @{2026. 04. 07.}
 - [ ] Írni Rogeréknek @{2026. 04. 09.}
-- [ ] Honlap kétsorok @{2026. 04. 09.}
 - [ ] KÖBE biztosítások (gmail) @{2026. 04. 08.}
+- [ ] Whombat @{2026. 04. 10.}
 - [ ] Huniverzum email
 - [ ] András cikkét átnyálazni
 - [ ] Faszos cikk
-- [ ] Szabina műszaki leírás
+- [ ] Számlák befizetése @{2026. 05. 22.}
+- [ ] Tibornak számla
+- [ ] tevékenységi körök
 
 
 ## PROGRESS
 
-- [ ] HR belt @{2026. 04. 07.}
-- [ ] Csigaültetés @{2026. 04. 07.}
 
 
 ## DONE
 
 - [ ] Fogorvossal egyeztetni @{2026. 04. 07.}
 - [ ] Írni a Mindrun csapatnak @{2026. 04. 07.}
+- [ ] Honlap kétsorok @{2026. 04. 09.}
 - [ ] Hanna @{2026. 04. 08.}
+- [ ] MR heating @{2026. 03. 12.}
+- [ ] Szabina műszaki leírás
 - [ ] Könyvelés
 	- [ ] Bankszámlakivonatok
 		- [ ] Letöltés
@@ -70,7 +71,10 @@ kanban-plugin: board
 		- [ ] letöltés (elvileg megvan)
 		- [ ] nyomtatás (elvileg megvan)
 	- [ ] Papírok leadása
+- [ ] copilot cli
+- [ ] HR belt @{2026. 04. 07.}
 - [ ] Viraj @{2026. 04. 08.}
+- [ ] Csigaültetés @{2026. 04. 07.}
 - [ ] Zsolttal beszélni @{2026. 04. 07.}
 
 
