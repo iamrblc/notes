@@ -16,6 +16,7 @@ kanban-plugin: board
 	- [ ] nézni pár rendszert
 	- [ ] ajánlatot kérni
 	#fnirs @{2026. 03. 16.}
+- [ ] Írni Rogeréknek @{2026. 04. 09.}
 - [ ] Gowerlabsre írni, hogy szervíz van-e
 	- [ ] megkeresni elérhetőséget
 	- [ ] megnézni útmutatót folytonos disconnect esetére
@@ -35,16 +36,16 @@ kanban-plugin: board
 
 ## TODO
 
-- [ ] Tomi telefonszámát kiszedni valahogy a telóból @{2026. 04. 07.}
-- [ ] Írni Rogeréknek @{2026. 04. 09.}
 - [ ] KÖBE biztosítások (gmail) @{2026. 04. 08.}
 - [ ] Whombat @{2026. 04. 10.}
-- [ ] Huniverzum email
 - [ ] András cikkét átnyálazni
 - [ ] Faszos cikk
-- [ ] Számlák befizetése @{2026. 05. 22.}
 - [ ] Tibornak számla
-- [ ] tevékenységi körök
+- [ ] Tevkörök
+	- [ ] Verának ajánlat megírása
+	- [ ] Tevékenységi köröket megnézni
+	- [ ] Bővítést megcsinálni, ha lehet
+- [ ] Számlák befizetése @{2026. 05. 22.}
 
 
 ## PROGRESS
@@ -57,8 +58,10 @@ kanban-plugin: board
 - [ ] Írni a Mindrun csapatnak @{2026. 04. 07.}
 - [ ] Honlap kétsorok @{2026. 04. 09.}
 - [ ] Hanna @{2026. 04. 08.}
+- [ ] Huniverzum email
 - [ ] MR heating @{2026. 03. 12.}
 - [ ] Szabina műszaki leírás
+- [ ] Tomi telefonszámát kiszedni valahogy a telóból @{2026. 04. 07.}
 - [ ] Könyvelés
 	- [ ] Bankszámlakivonatok
 		- [ ] Letöltés
